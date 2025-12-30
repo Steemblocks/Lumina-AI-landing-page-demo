@@ -86,4 +86,4 @@ The project is built to be highly customizable. You can modify the global styles
 ## License
 
 This project is open-source and available under the MIT License.
-# Lumina-AI-landing-page-demo
+
