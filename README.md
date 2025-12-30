@@ -2,6 +2,9 @@
 
 A modern, interactive landing page demo built with Next.js and Tailwind CSS. Features a dark-themed design with glassmorphism effects, 3D floating shapes, and smooth animations.
 
+<img width="1365" height="598" alt="lumia1" src="https://github.com/user-attachments/assets/e2a7300a-79c9-4bf6-aea2-c5a7180182ef" />
+
+
 ## Key Features
 
 - Performance Optimized: Built on Next.js for fast load times and SEO.
@@ -24,6 +27,9 @@ A modern, interactive landing page demo built with Next.js and Tailwind CSS. Fea
 - Icons: Lucide React
 - Language: TypeScript
 
+<img width="1365" height="597" alt="lumina2" src="https://github.com/user-attachments/assets/2cf39f7e-87c9-4a5e-b995-f98f7fc9bab1" />
+
+
 ## Project Structure
 
 ```
@@ -37,6 +43,10 @@ src/
 │   └── ...
 └── ...
 ```
+
+<img width="1365" height="595" alt="lumina3" src="https://github.com/user-attachments/assets/42a4e705-954c-4112-bdbc-4ab85fe2e0ec" />
+
+
 
 ## Getting Started
 
